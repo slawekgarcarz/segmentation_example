@@ -1,4 +1,6 @@
 # Segmentation example
+**Note: This example is relevant for python language and doesn't cover all possibilities**
+
 ## Description
 This repository contains example of code segmentation for codebase bot.
 The repository is organized into tree-like structure, where each folder 
@@ -124,5 +126,3 @@ relevant information for particular class/function/method and the tree can be ea
 account for context limits of the LLM.
 
 Disadvantage is that some snippets might be too big for the LLM even after segmentation.
-
-**Note: This example is relevant for python language and doesn't cover all possibilities**
