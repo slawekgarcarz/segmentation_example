@@ -124,3 +124,5 @@ relevant information for particular class/function/method and the tree can be ea
 account for context limits of the LLM.
 
 Disadvantage is that some snippets might be too big for the LLM even after segmentation.
+
+**Note: This example is relevant for python language and doesn't cover all possibilities**
